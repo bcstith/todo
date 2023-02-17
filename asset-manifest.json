@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bcstith/todo/static/css/main.e6c13ad2.css",
+    "main.js": "/bcstith/todo/static/js/main.57ac51ea.js",
+    "index.html": "/bcstith/todo/index.html",
+    "main.e6c13ad2.css.map": "/bcstith/todo/static/css/main.e6c13ad2.css.map",
+    "main.57ac51ea.js.map": "/bcstith/todo/static/js/main.57ac51ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.57ac51ea.js"
+  ]
+}
